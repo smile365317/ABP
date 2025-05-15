@@ -18,7 +18,7 @@ cd ABP
 pip install -r requirements.txt
 ```
 
-## ABPscore calculation 
+## Benchmarking Text-to-Image Models 
 
 ```bash
 python scripts/t2i_eval_ABP.py
